@@ -1,3 +1,3 @@
 # aguide_app
 
-A new Flutter project.
+This is my own app that I chose for the Academy project.
